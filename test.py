@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 21 20:51:43 2021
-
-@author: Masha
-"""
-
 import unittest
 import hashtable
 
